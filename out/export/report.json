@@ -1,0 +1,78 @@
+{
+  "shards": [
+    {
+      "index": 0,
+      "path": "shard-00000.csv",
+      "rows": 100,
+      "sha256": "7398c5e07a9e082fc90686d54a7abb8265e9c3026876317bdac9b9cc1d0bf893"
+    },
+    {
+      "index": 1,
+      "path": "shard-00001.csv",
+      "rows": 100,
+      "sha256": "12ec85816d4cb75a1b0aa68e863ea0eecb2844642864814718e5597cdf9a424c"
+    },
+    {
+      "index": 2,
+      "path": "shard-00002.csv",
+      "rows": 100,
+      "sha256": "57b35a0cf7a7b046dd1c66c650e72131751e412a5e7bde45253e2d99494478db"
+    },
+    {
+      "index": 3,
+      "path": "shard-00003.csv",
+      "rows": 100,
+      "sha256": "7a01f47f5061ad855454398928a47dea3a33b6f754afa21091442654abb6f38e"
+    },
+    {
+      "index": 4,
+      "path": "shard-00004.csv",
+      "rows": 100,
+      "sha256": "75a2a5b9f11ce866f118e991122741632d96de1ae0ea57de54696d5f5e7c0a70"
+    },
+    {
+      "index": 5,
+      "path": "shard-00005.csv",
+      "rows": 100,
+      "sha256": "981112fd3a745e6e52ed4648d207a107e6f69fa7b2dba3bf8e78cac1753dceda"
+    },
+    {
+      "index": 6,
+      "path": "shard-00006.csv",
+      "rows": 100,
+      "sha256": "925aeb246e78fe5944cb9874dd1ea57dfecb48d5a98e767b62334d3a5e8d2ff2"
+    },
+    {
+      "index": 7,
+      "path": "shard-00007.csv",
+      "rows": 100,
+      "sha256": "4270cb6014e044f3763acc20d747062a8ed01e83a4278f97b8c9d1d9b668cc5f"
+    },
+    {
+      "index": 8,
+      "path": "shard-00008.csv",
+      "rows": 100,
+      "sha256": "b353b0878886135ae766885fd8c0d075f04a48b4f51ae1d032b98264337b68de"
+    },
+    {
+      "index": 9,
+      "path": "shard-00009.csv",
+      "rows": 100,
+      "sha256": "6ce04f720d98c1f945ae8ddf2106d1bd1dfc4b6312aa254cba1ac1ddf0b0bb68"
+    }
+  ],
+  "total_rows": 1000,
+  "total_sha256": "741affb17dc22598e0ec9e8b1068359df9af3ec283e8a4416d76614296272789",
+  "skipped": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}
